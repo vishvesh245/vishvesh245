@@ -11,6 +11,7 @@ When I'm not scaling quick-commerce, I'm experimenting with **AI-first workflows
 
 * 🛒 **Noon Shopping Assistant** – An AI-powered assistant designed to make item discovery as intuitive as walking into your neighborhood store (Additionally, it can help you find deals, compare products, analyse reviews) [Try it here](https://chromewebstore.google.com/detail/ahmddkhlmakehabmgelljlpehomepmhj?utm_source=item-share-cb)
 * 💼 **PM Job Tracker** – A global job discovery engine that aggregates openings, identifies key stakeholders (HR/PMs), and generates personalized outreach messages.
+* **Automating Daily PM workflows** - Meeting Notes, PRD Brief generaor for design and inital discussions, Designer who helps me genarte UI, PRD generayor for tech team and QA team. 
 
 ---
 
@@ -22,20 +23,3 @@ When I'm not scaling quick-commerce, I'm experimenting with **AI-first workflows
 
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/vishvesh-pandya-01ba02152/)
-
-<!--
-**vishvesh245/vishvesh245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -9,15 +9,15 @@ I’m a product manager with over 4 years of experience shipping scalable B2C an
 ### What I'm Building
 When I'm not scaling quick-commerce, I'm experimenting with **AI-first workflows** (using Claude Code & Cowork) to build high-leverage tools.
 
-* 🛒 **Noon Shopping Assistant** – An AI-powered assistant designed to make item discovery as intuitive as walking into your neighborhood store (Additionally, it can help you find deals, compare products, analyse reviews) [Try it here](https://chromewebstore.google.com/detail/ahmddkhlmakehabmgelljlpehomepmhj?utm_source=item-share-cb)
-* 💼 **PM Job Tracker** – A global job discovery engine that aggregates openings, identifies key stakeholders (HR/PMs), and generates personalized outreach messages.
+* **Noon Shopping Assistant** – An AI-powered assistant designed to make item discovery as intuitive as walking into your neighborhood store (Additionally, it can help you find deals, compare products, analyse reviews) [Try it here](https://chromewebstore.google.com/detail/ahmddkhlmakehabmgelljlpehomepmhj?utm_source=item-share-cb)
+* **PM Job Tracker** – A global job discovery engine that aggregates openings, identifies key stakeholders (HR/PMs), and generates personalized outreach messages.
 * **Automating Daily PM workflows** - Meeting Notes, PRD Brief generaor for design and inital discussions, Designer who helps me genarte UI, PRD generayor for tech team and QA team. 
 
 ---
 
 ### Beyond the Roadmap
-* 📖 **Fiction:** Usually found lost in a good book during my downtime.
-* 🎓 **IIT Kharagpur Alumnus** | Based in **Bangalore, India**.
+* **Fiction:** Usually found lost in a good book during my downtime.
+* **IIT Kharagpur Alumnus** | Based in **Bangalore, India**.
 
 ---
 

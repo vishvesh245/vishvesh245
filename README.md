@@ -11,7 +11,7 @@ When I'm not scaling quick-commerce, I'm experimenting with **AI-first workflows
 
 * **Noon Shopping Assistant** – An AI-powered assistant designed to make item discovery as intuitive as walking into your neighborhood store (Additionally, it can help you find deals, compare products, analyse reviews) [Try it here](https://chromewebstore.google.com/detail/ahmddkhlmakehabmgelljlpehomepmhj?utm_source=item-share-cb)
 * **PromptPulse — Grammarly for AI Prompts** - Instantly score and improve your AI prompts. Works on ChatGPT, Claude, and Gemini. (Status - Under review on chrome extension)
-* **Automating Daily PM workflows** - Meeting Notes, PRD Brief generator for design and inital discussions, Designer who helps me genarte UI, PRD generayor for tech team and QA team. 
+* **Automating Daily PM workflows** - Meeting Notes, PRD Brief generator for design and inital discussions, Designer who helps me genarte UI, PRD generator for tech team and QA team. 
 
 ---
 

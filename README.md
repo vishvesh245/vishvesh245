@@ -9,6 +9,7 @@ I'm a product manager with over 4 years of experience shipping scalable B2C and 
 When I'm not scaling quick-commerce, I'm experimenting with **AI-first workflows** (using Claude Code & Cowork) to build high-leverage tools.
 * **Noon Shopping Assistant** – An AI-powered assistant designed to make item discovery as intuitive as walking into your neighborhood store (additionally, it can help you find deals, compare products, and analyse reviews) [Try it here](https://chromewebstore.google.com/detail/ahmddkhlmakehabmgelljlpehomepmhj?utm_source=item-share-cb)
 * **PromptPulse — Grammarly for AI Prompts** - Instantly score and improve your AI prompts. Works on ChatGPT, Claude, and Gemini. [Try it here](https://chromewebstore.google.com/detail/mpebhejccfkjcmgmeigbkakbgnlflpfb?utm_source=item-share-cb)
+* **SprintFlow** - It's a full-stack sprint management tool designed for teams that want the essentials of Jira — without the complexity. It supports Kanban boards, backlog grooming, sprint planning, real-time updates, and issue tracking across multiple teams and epics. [Try it here](https://sprintflow-seven.vercel.app/)
 * **Automating Daily PM Workflows** - Meeting notes, PRD brief generator for design and initial discussions, a designer who helps me generate UI, and a PRD generator for the tech and QA teams.
  
 ---

@@ -11,6 +11,9 @@ When I'm not scaling quick-commerce, I'm experimenting with **AI-first workflows
 * **PromptPulse — Grammarly for AI Prompts** - Instantly score and improve your AI prompts. Works on ChatGPT, Claude, and Gemini. [Try it here](https://chromewebstore.google.com/detail/mpebhejccfkjcmgmeigbkakbgnlflpfb?utm_source=item-share-cb)
 * **SprintFlow** - It's a full-stack sprint management tool designed for teams that want the essentials of Jira — without the complexity. It supports Kanban boards, backlog grooming, sprint planning, real-time updates, and issue tracking across multiple teams. [Try it here](https://sprintflow-seven.vercel.app/)
 * **Automating Daily PM Workflows** - Meeting notes, PRD brief generator for design and initial discussions, a designer who helps me generate UI, and a PRD generator for the tech and QA teams.
+* **Find rentals ranked by your commute** RentScout aggregates listings across multiple platform, deduplicates them, and shows everything on a single map — sorted by distance from your workplace/home. [Try it here](rental-aggregator.onrender.com)
+
+
  
 ---
 ### Beyond the Roadmap
